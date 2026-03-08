@@ -41,7 +41,7 @@ AI-assisted app that helps users compare paths and get structured next steps.
 
 ---
 
-## Stack (short)
+## Stack
 **Python • TypeScript • SQL • React/Next.js • scikit-learn • pandas • Pydantic • Tailwind**
 
 ---
