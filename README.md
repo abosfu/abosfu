@@ -17,30 +17,6 @@ I build decision tools that turn messy signals into **scores, roadmaps, and next
 
 ---
 
-## Featured Work
-
-### LeadScorer — ML Opportunity Prioritization
-Supervised classification pipeline that ranks leads into **High / Medium / Low** priority.  
-**Outputs:** trained models, evaluation metrics, confusion matrix, reproducible dataset pipeline.
-
-### MarketScout — Market Signals → Actionable Notes
-Evidence-backed tool that converts live market signals into structured AI adoption notes + next steps.  
-**Outputs:** schema-validated JSON, Markdown/HTML reports, explainable scoring.
-
-### FightMatch — Rankings + Matchup Recommendation Engine
-Data pipeline that produces contender rankings and matchup recommendations from historical fight stats.  
-**Outputs:** structured datasets, engineered features, ranking + compatibility scores.
-
-### Maple — Product Strategy & Experience Design
-Support experience concept for airline customer journeys, focused on reducing uncertainty and friction.  
-**Outputs:** personas, service blueprinting, competitor analysis, ROI framing.
-
-### Trajectory — Full-Stack Career Path Explorer
-AI-assisted app that helps users compare paths and get structured next steps.  
-**Outputs:** full-stack implementation, database + API layer, deploy workflow.
-
----
-
 ## Stack
 **Python • TypeScript • SQL • React/Next.js • scikit-learn • pandas • Pydantic • Tailwind**
 
